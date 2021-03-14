@@ -1,0 +1,15 @@
+### Requisitos do desafio
+
+[] - Criar um novo 'todo'
+[] - Listar todos os 'todo'
+[] - Alterar um title e deadline de um 'todo' existente
+[] - Marcar um 'todo' como feito
+[] - Deletar um 'todo'
+
+### Regras de Requisitos
+
+[] - Cada 'todo' ter seu próprio ID
+[] - Na criação do 'todo', é obrigatório o preenchimento dos campos title e deadline
+[] - Para listar um 'todo' ele tem que existir
+[] - Para marcar um 'todo' como feito ele tem que existir
+[] - Para deletar um 'todo' como feito ele tem que existir
